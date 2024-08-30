@@ -1,10 +1,13 @@
-<h2 align="center">Olá, me chamo Chrystian, seja bem vindo(a) ao meu GitHub.</h2>
+<h2 align="center">👋 Olá, me chamo Chrystian, seja bem vindo(a) ao meu GitHub.</h2>
 
 ###
 
-<h5 align="center">Estudante de Ciência da Computação em transição de carreira, atualmente estudando .NET, React e C#. Explorando novas tecnologias e apaixonado por criar soluções inovadoras.</h5>
+<h4 align="center">Sou um estudante de Ciência da Computação e desenvolvedor Fullstack apaixonado por tecnologia. No meu percurso académico e pessoal, tenho explorado várias áreas do desenvolvimento de software, desde o frontend até ao backend, com o objetivo de criar soluções robustas e eficientes.</h5>
 
-###
+<div align="center">
+  
+ ## 📫 Conecta-se comigo:
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chrystian-santos-da-rocha-63a93429a/" target="_blank">
@@ -18,3 +21,14 @@
   </a>
 </div>
 
+
+
+<div align="center">
+
+## 🚀 Skills
+</div>
+
+<div align="center">
+<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+">
+</div>
