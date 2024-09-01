@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Sou um estudante de Ciência da Computação e desenvolvedor Fullstack apaixonado por tecnologia. No meu percurso académico e pessoal, tenho explorado várias áreas do desenvolvimento de software, desde o frontend até ao backend, com o objetivo de criar soluções robustas e eficientes.</h5>
+<h4 align="center">Sou um estudante de Ciência da Computação e desenvolvedor Fullstack apaixonado por tecnologia. No meu percurso académico e pessoal, tenho explorado várias áreas do desenvolvimento de software, desde o frontend até ao backend, com o objetivo de criar soluções eficientes.</h5>
 
 <div align="center">
   
@@ -29,6 +29,8 @@
 </div>
 
 <div align="center">
+<img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 ">
 </div>
+
