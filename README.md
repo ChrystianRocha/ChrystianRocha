@@ -1,58 +1,38 @@
-<h1 align="center">👋 Olá, me chamo Chrystian, seja bem vindo(a) ao meu GitHub.</h1>
+# Olá, me chamo Chrystian! 👋
 
-###
+### Estudante de Ciência da Computação | Segurança da Informação
 
-<p align="left">Sou um estudante de Ciência da Computação e desenvolvedor Fullstack apaixonado por tecnologia. No meu percurso académico e pessoal, tenho explorado várias áreas do desenvolvimento de software, desde o frontend até ao backend, com o objetivo de criar soluções eficientes.</p>
+Estudante de CC na UNINOVE (5º semestre) em transição para a área 
+de Tecnologia da Informação, com foco em Segurança da Informação.
 
-###
+Atuo há mais de 2 anos como Vigilante de Monitoramento, onde 
+desenvolvi habilidades diretamente aplicáveis à área de TI: 
+análise de eventos em tempo real, identificação de anomalias e 
+resposta a incidentes.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrystianRocha&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrystianRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="110" alt="languages graph"  />
-</div>
+---
 
-###
+### 🎯 Foco atual
+- Ethical Hacking e fundamentos de Cibersegurança
+- Python para automação e segurança
+- Redes e infraestrutura (Cisco NetAcad)
 
-<h2 align="center">📫 Conecta-se comigo:</h2>
+### 📚 Estudando em
+- TryHackMe
+- DIO — Formação Cybersecurity Specialist
+- IBSEC — Instituto Brasileiro de Cibersegurança
+- Cisco Networking Academy
 
-###
+### 🛠️ Habilidades em desenvolvimento
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chrystian-santos-da-rocha-63a93429a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:cchrystianrocha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/chrystianrocha?igsh=b2ExNGRpZjg1YXFk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystian-santos-da-rocha-63a93429a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cchrystianrocha@gmail.com)
 
-###
+---
 
-<h2 align="center">🚀 Habilidades:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
+📍 São Paulo, Brasil
